@@ -17,15 +17,12 @@ Il prend en compte 3 paramètres:
 
 Ce programme prend en compte:
   * Les titres de niveau 1
-    * exemple:
  <!-- -->
         \#  en \<h1>
   * Les titres de niveau 2
-     * exemple:
   <!-- -->
         \##  en \<h2>
-  * Les titres de niveau 2
-     * exemple:
+  * Les titres de niveau 3
   <!-- -->
          \###  en \<h3>
        
