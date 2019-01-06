@@ -31,3 +31,9 @@ Convertir les listes non ordonnées en **\<ul>** et **\<li>**
 Convertir les URL (http://quelquechose.com) en \<a> href="http://quelquechose.com">http://quelquechose.com \</a>
 
 Convertir \*un texte*, en un texte important \<em>un texte\</em>
+
+# Fichiers tests
+
+Les fichiers "fichier_test1.markdown" et "fichier_test2.markdown" permettent de tester le programme.
+
+Mettez-les dans un fichier "sources" executez le programme. Vous aurez alors dans votre fichier "destination" (préalablement créé) deux fichiers html. :+1:  
