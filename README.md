@@ -18,13 +18,13 @@ Il prend en compte 3 paramètres:
 Ce programme prend en compte:
   * Les titres de niveau 1
  <!-- -->
-        \#  en \<h1>
+         #  en  <h1>
   * Les titres de niveau 2
   <!-- -->
-        \##  en \<h2>
+         ##  en  <h2>
   * Les titres de niveau 3
   <!-- -->
-         \###  en \<h3>
+          ###  en <h3>
        
 Convertir les listes non ordonnées en **\<ul>** et **\<li>**
 
