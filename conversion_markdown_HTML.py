@@ -32,7 +32,7 @@ for fichier_markdown in fichiers_markdown:
                 index_debut_url = ligne.find('http')
                 index_fin_url = ligne[index_debut_url:].find(' ')
                 if index_fin_url != -1:
-                    index_fin_url+=index_debut_url
+                    index_fin_url += index_debut_url
                 adresse_url = ligne[index_debut_url:index_fin_url]
                 expression_url = "<a href=" + adresse_url + '>' + adresse_url + '</a>'
                 ligne = ligne[:index_debut_url] + expression_url + ligne[index_fin_url:]
@@ -72,6 +72,3 @@ for nom_fichier, contenu_fichier in fichiers_html.items():
     with open(nom_fichier, 'w', encoding = 'utf-8') as fichier_html:
         fichier_html.write(contenu_fichier)
         print("Génération du fichier", nom_fichier)
-
-            
-            
