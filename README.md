@@ -3,13 +3,13 @@
 Ce programme est un exercice pour apprendre le langage python.
 Il permet de convertir des fichiers écrits en markdown en html.
 Il prend en compte 3 paramètres:
-  * > -h ou --help 
+    > -h ou --help 
   * pour afficher l'aide pour expliquer les paramètres de la commande.
   
-  * > -i ou --input-directory 
+    > -i ou --input-directory 
   * commande à la suite de laquelle on entre le chemin du dossier source contenant les fichiers markdowns qui seront convertis.
   
-  * > -o ou --output-directory 
+    > -o ou --output-directory 
   * commande à la suite de laquelle on rentre le chemin du dossier destinatire qui va contenir les fichiers HTML qui seront générés.
 
 ## Conversion Markdown vers HTML
