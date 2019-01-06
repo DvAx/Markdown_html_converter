@@ -28,6 +28,6 @@ Ce programme prend en compte:
        
 Convertir les listes non ordonnées en **\<ul>** et **\<li>**
 
-Convertir les URL (http://quelquechose.com) en \<a href="http://quelquechose.com">http://quelquechose.com \</a>
+Convertir les URL (http://quelquechose.com) en \<a> href="http://quelquechose.com">http://quelquechose.com \</a>
 
 Convertir \*un texte*, en un texte important \<em>un texte\</em>
