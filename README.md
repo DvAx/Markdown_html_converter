@@ -3,6 +3,7 @@
 Ce programme est un exercice pour apprendre le langage python.
 Il permet de convertir des fichiers écrits en markdown en html.
 Il prend en compte 3 paramètres:
+
   *
     > -h ou --help 
   * pour afficher l'aide pour expliquer les paramètres de la commande.
