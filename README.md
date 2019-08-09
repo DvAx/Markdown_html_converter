@@ -36,4 +36,4 @@ Convertir \*un texte*, en un texte important \<em>un texte\</em>
 
 Les fichiers "fichier_test1.markdown" et "fichier_test2.markdown" permettent de tester le programme.
 
-Mettez-les dans un fichier "sources" executez le programme. Vous aurez alors dans votre fichier "destination" (préalablement créé) deux fichiers html.   :+1:  
+Mettez-les dans un fichier "sources" executez le programme. Vous aurez alors dans votre fichier "destination" (préalablement créés) deux fichiers html.   :+1:  
